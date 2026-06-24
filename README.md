@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bonjour, je suis Yomna 👋
+# Hi, I'm Yomna! 👋
 
 **Cloud Computing Engineering Student @ ESPRIT**  
 Building cloud-native systems, DevOps pipelines, ML applications & full-stack apps from Tunis 🇹🇳

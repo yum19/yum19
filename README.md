@@ -5,7 +5,7 @@
 **Cloud Computing Engineering Student @ ESPRIT**  
 Building cloud-native systems, DevOps pipelines & full-stack apps from Tunis 🇹🇳
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yomna-bouallegue-787731273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yomna-bouallegue-788731273/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yomna.bouallegue@esprit.tn)
 
 </div>

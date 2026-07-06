@@ -1,0 +1,82 @@
+<svg viewBox="0 0 820 420" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f2b"/>
+      <stop offset="100%" stop-color="#141a3d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f2d06b"/>
+      <stop offset="100%" stop-color="#d4af37"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a8ecef"/>
+      <stop offset="100%" stop-color="#7fd4d9"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f2a366"/>
+      <stop offset="100%" stop-color="#e8834e"/>
+    </linearGradient>
+    <linearGradient id="sage" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b0c9a0"/>
+      <stop offset="100%" stop-color="#8fae7d"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="820" height="420" rx="18" fill="url(#bg)"/>
+
+  <text x="30" y="42" fill="#f2d06b" font-size="20" font-weight="700" letter-spacing="0.5">Core Skills</text>
+  <text x="30" y="62" fill="#8891b5" font-size="12">Self-assessed proficiency</text>
+
+  <!-- Bars -->
+  <!-- track width max = 560, starting x = 240 -->
+
+  <!-- Kubernetes 88 -->
+  <text x="30" y="98" fill="#e8e9f5" font-size="13">Kubernetes</text>
+  <rect x="240" y="86" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="86" width="492" height="16" rx="8" fill="url(#gold)"/>
+  <text x="742" y="98" fill="#f2d06b" font-size="12" font-weight="600">88%</text>
+
+  <!-- Docker 90 -->
+  <text x="30" y="130" fill="#e8e9f5" font-size="13">Docker</text>
+  <rect x="240" y="118" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="118" width="504" height="16" rx="8" fill="url(#cyan)"/>
+  <text x="752" y="130" fill="#a8ecef" font-size="12" font-weight="600">90%</text>
+
+  <!-- React / React Native 84 -->
+  <text x="30" y="162" fill="#e8e9f5" font-size="13">React / React Native</text>
+  <rect x="240" y="150" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="150" width="470" height="16" rx="8" fill="url(#ember)"/>
+  <text x="718" y="162" fill="#f2a366" font-size="12" font-weight="600">84%</text>
+
+  <!-- Node.js / Spring Boot 82 -->
+  <text x="30" y="194" fill="#e8e9f5" font-size="13">Node.js / Spring Boot</text>
+  <rect x="240" y="182" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="182" width="459" height="16" rx="8" fill="url(#sage)"/>
+  <text x="707" y="194" fill="#b0c9a0" font-size="12" font-weight="600">82%</text>
+
+  <!-- Azure / OpenStack 80 -->
+  <text x="30" y="226" fill="#e8e9f5" font-size="13">Azure / OpenStack</text>
+  <rect x="240" y="214" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="214" width="448" height="16" rx="8" fill="url(#gold)"/>
+  <text x="696" y="226" fill="#f2d06b" font-size="12" font-weight="600">80%</text>
+
+  <!-- Python / ML 78 -->
+  <text x="30" y="258" fill="#e8e9f5" font-size="13">Python / ML</text>
+  <rect x="240" y="246" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="246" width="437" height="16" rx="8" fill="url(#cyan)"/>
+  <text x="685" y="258" fill="#a8ecef" font-size="12" font-weight="600">78%</text>
+
+  <!-- CI/CD & Monitoring 76 -->
+  <text x="30" y="290" fill="#e8e9f5" font-size="13">CI/CD &amp; Monitoring</text>
+  <rect x="240" y="278" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="278" width="426" height="16" rx="8" fill="url(#ember)"/>
+  <text x="674" y="290" fill="#f2a366" font-size="12" font-weight="600">76%</text>
+
+  <!-- Embedded / C++ 70 -->
+  <text x="30" y="322" fill="#e8e9f5" font-size="13">Embedded / C++</text>
+  <rect x="240" y="310" width="560" height="16" rx="8" fill="#1e2450"/>
+  <rect x="240" y="310" width="392" height="16" rx="8" fill="url(#sage)"/>
+  <text x="640" y="322" fill="#b0c9a0" font-size="12" font-weight="600">70%</text>
+
+  <text x="30" y="380" fill="#5b6394" font-size="11">Cloud Computing Engineering &#183; ESPRIT</text>
+</svg>

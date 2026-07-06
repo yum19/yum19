@@ -73,6 +73,20 @@ I'm a **2nd-year Cloud Computing Engineering student at ESPRIT**, passionate abo
 
 ---
 
+## 📈 Skills Breakdown
+
+<div align="center">
+
+<img src="./assets/skills-chart.svg" alt="Core skills proficiency chart" width="100%"/>
+
+<br/>
+
+<img src="./assets/tech-distribution.svg" alt="Tech stack focus distribution" width="100%"/>
+
+</div>
+
+---
+
 ## 🏗️ Featured Projects
 
 ### ☁️ TFAKADNI — Cloud-Native Maternal Health Platform `2025–2026`

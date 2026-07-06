@@ -1,0 +1,50 @@
+<svg viewBox="0 0 780 500" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f2b"/>
+      <stop offset="100%" stop-color="#141a3d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="780" height="500" rx="18" fill="url(#bgd)"/>
+
+  <text x="30" y="42" fill="#f2d06b" font-size="20" font-weight="700">Tech Stack Focus</text>
+  <text x="30" y="62" fill="#8891b5" font-size="12">Where the projects live</text>
+
+  <!-- Donut chart, center (250,270), r=150, hole r=85 -->
+  <g>
+    <!-- Cloud & DevOps 35% gold -->
+    <path d="M250,270 L250,120 A150,150 0 0,1 371.4,358.2 Z" fill="#d4af37"/>
+    <!-- Backend 25% cyan -->
+    <path d="M250,270 L371.4,358.2 A150,150 0 0,1 161.8,391.4 Z" fill="#7fd4d9"/>
+    <!-- Frontend 20% ember -->
+    <path d="M250,270 L161.8,391.4 A150,150 0 0,1 107.4,223.6 Z" fill="#e8834e"/>
+    <!-- Machine Learning 10% sage -->
+    <path d="M250,270 L107.4,223.6 A150,150 0 0,1 161.8,148.6 Z" fill="#8fae7d"/>
+    <!-- Languages & Tools 10% muted lavender -->
+    <path d="M250,270 L161.8,148.6 A150,150 0 0,1 250,120 Z" fill="#8891b5"/>
+    <!-- hole -->
+    <circle cx="250" cy="270" r="85" fill="#0f1433"/>
+    <text x="250" y="264" fill="#f2d06b" font-size="26" font-weight="700" text-anchor="middle">10+</text>
+    <text x="250" y="288" fill="#8891b5" font-size="12" text-anchor="middle">projects shipped</text>
+  </g>
+
+  <!-- Legend -->
+  <g font-size="14">
+    <rect x="480" y="130" width="14" height="14" rx="3" fill="#d4af37"/>
+    <text x="502" y="142" fill="#e8e9f5">Cloud &amp; DevOps &#183; 35%</text>
+
+    <rect x="480" y="164" width="14" height="14" rx="3" fill="#7fd4d9"/>
+    <text x="502" y="176" fill="#e8e9f5">Backend &#183; 25%</text>
+
+    <rect x="480" y="198" width="14" height="14" rx="3" fill="#e8834e"/>
+    <text x="502" y="210" fill="#e8e9f5">Frontend &amp; Mobile &#183; 20%</text>
+
+    <rect x="480" y="232" width="14" height="14" rx="3" fill="#8fae7d"/>
+    <text x="502" y="244" fill="#e8e9f5">Machine Learning &#183; 10%</text>
+
+    <rect x="480" y="266" width="14" height="14" rx="3" fill="#8891b5"/>
+    <text x="502" y="278" fill="#e8e9f5">Languages &amp; Tools &#183; 10%</text>
+  </g>
+
+  <text x="30" y="470" fill="#5b6394" font-size="11">Based on featured projects: TFAKADNI, MedAssist AI, FitLife, ChronoSerena &amp; more</text>
+</svg>

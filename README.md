@@ -139,6 +139,15 @@ I'm a **2nd-year Cloud Computing Engineering student at ESPRIT**, passionate abo
 
 ---
 
+### 💼 Kadamni — Recruitment Web Platform `2023–2024`
+> Full recruitment site with job postings, applications and account management
+
+- Built a complete recruitment platform: job offer publishing, application management and administration of employer and candidate accounts
+
+`PHP` `HTML` `CSS` `MySQL`
+
+---
+
 ### 🌾 AgroDesk — Agricultural Management Desktop App `2023–2024`
 > C++ OOP desktop app for farm management + Arduino embedded system
 

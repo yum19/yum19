@@ -185,8 +185,10 @@ I'm a **3rd-year Cloud Computing Engineering student at ESPRIT**, passionate abo
 
 <div align="center">
 
-![Yomna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yum19&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yum19&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=yum19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yum19&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yum19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 

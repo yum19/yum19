@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi, I'm Yomna! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=220&section=header&text=Hi,%20I'm%20Yomna!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Computing%20Engineering%20Student%20@%20ESPRIT&descAlignY=60&descSize=18" alt="Header" width="100%"/>
 
-**Cloud Computing Engineering Student @ ESPRIT**  
-Building cloud-native systems, DevOps pipelines, ML applications & full-stack apps from Tunis 🇹🇳
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=45&lines=Building+cloud-native+systems+%E2%98%81%EF%B8%8F;Kubernetes+%7C+OpenStack+%7C+CI%2FCD+%F0%9F%9A%80;Full-Stack+%26+DevOps+Intern+%40+Edora+LMS+%F0%9F%8E%93;Machine+Learning+for+real-world+health+%F0%9F%A7%A0;Based+in+Tunis%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing animation" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yomna-bouallegue-787731273/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yomna.bouallegue@esprit.tn)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yomnabouallegue2468@gmail.com)
 
 </div>
 
@@ -204,4 +207,6 @@ I'm a **3rd-year Cloud Computing Engineering student at ESPRIT**, passionate abo
 
 <div align="center">
   <i>Always building, always learning ☁️</i>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=120&section=footer" alt="Footer" width="100%"/>
 </div>
